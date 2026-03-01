@@ -1,4 +1,4 @@
-# Talking-Tank-Plant
+# Talking-Tank-Plant #HackPackContest 
 Hi, @August here!
 For my submission I added a DF Mini Player to the Tank Plant. I wanted my final build to do this: When the LED matrix says a word (like DROWNING or SATISFIED) the DF Mini Player will play a file that speaks the same word out loud. How does this improve the Tank Plant? Well, what if you were in the other room and the Tank Plant says, on the LED matrix, THIRSTY? Only thing is, you were in the other room so you didn’t see it say that. 
 
