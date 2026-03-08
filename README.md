@@ -9,11 +9,18 @@ The parts I needed were a mini breadboard, DF mini player, speaker, 1k ohm resis
 I wanted to make my own MP3 audio files, only problem was…I didn’t know how to make one so after buying a microphone and watching a few YouTube videos I got my homemade MP3 files. I made 6 MP3 audio files, here they are in order with their file names next to them:
 
 File 01 = Parched
+
 File 02 = Thirsty
+
 File 03 = Satisfied
+
 File 04 = Drowning
+
 File 05 = Isolate Me
+
 File 06 = Scorched
+
+(I've put the mp3 files on my github post for this hack)
 
 The last thing to do then was modify the code to make this hack work. After 1 week of errors and me almost throwing my computer into the wall I got my first code with no errors. As you can expect it didn’t work, so after another week of staying up till 2:00am I was able to get it working! I decided to add a test line to see if the DF mini player was really working (line 264). 
 
